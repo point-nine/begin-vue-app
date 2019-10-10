@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ message }}</h1>
-    <h2>Begin.com - test app</h2>
+    <h2>Begin.com - TEST Vue App</h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
